@@ -1,0 +1,5 @@
+1. 채용공고: 풍성에너지(주) 스마트에너지사업본부 경력직 채용
+2. 채용공고 클릭: https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=52085068&recommend_ids=eJxVkMENA0EIA6vJH2PAyzuFpP8usjnpjs1zNBgs0pHRHZ8Fe%2BmdDhoXNuJCq67VY9sS8Vg0IgYtc%2FuxYeKR3ZIcFIx6hh1m0ZOtFX62chX%2FUHUjemVdd%2B9DYvlsduXUQO8WuY7OQnCQwXMVJf6%2BYV8HpD%2Bj&view_type=scrap&gz=1&t_ref_content=generic&t_ref=scrap&relayNonce=c68652a1471b5c4964dc&immediately_apply_layer_open=n#seq=0
+3. 담당업무: 에너지 관련 시스템 개발 외주업체 관리 및 총괄 수행 업무
+4. 지원자격: xEMS 백엔드 및 프론트엔드 개발 경험, IoT, 센서 데이터 통신 및 프로토콜 연동 경험
+5. 우대사항: 에너지관리시스템 또는 모니터링 플랫폼 개발 경험
